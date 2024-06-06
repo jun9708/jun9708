@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%JUN!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hello!%20I'm%JUN!&fontAlign=50&fontAlignY=70&fontSize=70&fontColor=000000)
 
 <div align="center">
 
@@ -49,8 +49,8 @@
   ## 📘 My Top Projects
   Here are a few projects I've worked on recently:
 
-  ### [Project 1](https://github.com/your-username/project-1)
-  ![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=radical)
+ ### [롯데온 프로젝트](https://github.com/jun9708/lotteON)
+  ![롯데온 프로젝트](https://github-readme-stats.vercel.app/api/pin/?username=jun9708&repo=lotteON&theme=radical)
 
   ### [Project 2](https://github.com/your-username/project-2)
   ![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=radical)
