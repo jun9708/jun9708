@@ -6,8 +6,8 @@
   [![Linkedin: your-name](https://img.shields.io/badge/-yourname-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/yourname/)
   [![GitHub: your-username](https://img.shields.io/github/stars/your-username?affiliations=OWNER&style=social)](https://github.com/your-username)
 
-  Welcome to my GitHub profile! I'm a passionate developer with a love for creating impactful software solutions.
-
+  ICT 융합미디어 공학을 전공하여 현재 웹프로그래밍을 공부하고 있는 중입니다
+  
   ## 🚀 About Me
   - 🌱 I’m currently learning **[specific technology or skill]**
   - 👯 I’m looking to collaborate on **[project or type of projects]**
