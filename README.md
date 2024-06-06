@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hello!%20I'm%JUN!&fontAlign=50&fontAlignY=70&fontSize=70&fontColor=000000)
 
+![motion](https://github.com/jun9708/jun9708/assets/102947577/be3c4675-8ddf-45da-aac0-2814d4b73e64)
 
 <div align="center">
 
