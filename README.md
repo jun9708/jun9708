@@ -1,8 +1,8 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20HaHa JUN😎!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
-
+	![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Hyein!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+ 
   # 개발자 김준형의 GitHub 👋
 
   [![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
