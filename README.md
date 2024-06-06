@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://your-image-link.com/header-image" alt="Header Image">
 
-  # Hi there, I'm [Your Name] 👋
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HaHaHa!😊&fontSize=90&fontAlignY=40" />
+
+  # 개발자 김준형의 GitHub 👋
 
   [![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
   [![Linkedin: your-name](https://img.shields.io/badge/-yourname-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/yourname/)
