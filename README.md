@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HaHaHa!😊&fontSize=90&fontAlignY=40" />
-
   # 개발자 김준형의 GitHub 👋
 
   [![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
