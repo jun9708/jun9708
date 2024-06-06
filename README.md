@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20HaHa JUN😎!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 <div align="center">
 
   # 개발자 김준형의 GitHub 👋
@@ -12,8 +13,8 @@
   - 🌱 I’m currently learning **[specific technology or skill]**
   - 👯 I’m looking to collaborate on **[project or type of projects]**
   - 💬 Ask me about **[your areas of expertise]**
-  - 📫 How to reach me: **[your email]**
-  - ⚡ Fun fact: **[a fun fact about you]**
+  - 📫 wnsgud1997@gmail.com
+  - ⚡ 저는 
 
   ## 🛠️ Technologies & Tools
   ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
