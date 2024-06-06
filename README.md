@@ -16,7 +16,6 @@
   - ⚡ Fun fact: **[a fun fact about you]**
 
   ## 🛠️ Technologies & Tools
-  <img src="https://img.shields.io/badge/Java-3776AB?style=flat&logo=Java&logoColor=white" />
   ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
