@@ -16,7 +16,12 @@
   - ⚡ Fun fact: **[a fun fact about you]**
 
   ## 🛠️ Technologies & Tools
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=java)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=spring)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=springboot)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=jsp)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=mysql)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
