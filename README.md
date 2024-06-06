@@ -3,16 +3,11 @@
 <div align="center">
 
   # 개발자 김준형의 GitHub 👋
-
-  [![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
-  [![Linkedin: your-name](https://img.shields.io/badge/-yourname-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/yourname/)
-  [![GitHub: your-username](https://img.shields.io/github/stars/your-username?affiliations=OWNER&style=social)](https://github.com/your-username)
-
-  ICT 융합미디어 공학을 전공하여 현재 웹프로그래밍을 공부하고 있는 중입니다
   
   ## 🚀 About Me
   ![motion](https://github.com/jun9708/jun9708/assets/102947577/be3c4675-8ddf-45da-aac0-2814d4b73e64)
   - "⚡문제해결을 통해 한걸음씩 성장하는 개발자"
+  -   ICT 융합미디어 공학을 전공하여 현재 웹프로그래밍을 공부하고 있는 중입니다
   
 
   ## 🛠️ Technologies & Tools
