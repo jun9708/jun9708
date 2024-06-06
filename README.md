@@ -45,12 +45,7 @@
   ### [Project 3](https://github.com/your-username/project-3)
   ![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-3&theme=radical)
 
-  ## 📫 Connect with me
-  - LinkedIn: [your-name](https://www.linkedin.com/in/yourname/)
-  - Twitter: [@yourusername](https://twitter.com/yourusername)
-  - Personal Website: [yourwebsite.com](https://yourwebsite.com)
-
   ---
 
-  ⭐️ From [your-username](https://github.com/your-username)
+  ⭐️ From jun9708
 </div>
