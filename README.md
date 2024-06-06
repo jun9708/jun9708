@@ -16,21 +16,22 @@
   - ⚡ Fun fact: **[a fun fact about you]**
 
   ## 🛠️ Technologies & Tools
-  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-  ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring-boot)
-  ![JSP](https://img.shields.io/badge/-JSP-black?style=flat-square&logo=java)
-  ![MyBatis](https://img.shields.io/badge/-MyBatis-black?style=flat-square&logo=mybatis)
-  ![JPA](https://img.shields.io/badge/-JPA-black?style=flat-square&logo=hibernate)
-  ![QueryDSL](https://img.shields.io/badge/-QueryDSL-black?style=flat-square&logo=java)
-  ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-  ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+  ![Spring](https://img.shields.io/badge/-Spring-brightgreen?style=flat-square&logo=spring)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?style=flat-square&logo=spring-boot)
+  ![JSP](https://img.shields.io/badge/-JSP-red?style=flat-square&logo=java)
+  ![MyBatis](https://img.shields.io/badge/-MyBatis-blue?style=flat-square&logo=mybatis)
+  ![JPA](https://img.shields.io/badge/-JPA-orange?style=flat-square&logo=hibernate)
+  ![QueryDSL](https://img.shields.io/badge/-QueryDSL-red?style=flat-square&logo=java)
+  ![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
+  ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
 
   ## 📈 GitHub Stats
-  [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+  <img src="https://github-readme-stats.vercel.app/api?username=jun9708&show_icons=true&theme=tokyonight)">
+
 
   ## 📘 My Top Projects
   Here are a few projects I've worked on recently:
