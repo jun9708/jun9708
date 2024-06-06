@@ -36,19 +36,6 @@
   | 2021.10.28 ~ 2022.10.30 | 한국 정보통신학회 | - 하계 종합학술대회 발표 |
   | 2020.12 | LINC+ | - 미라클오디션 장려상 |
 
-
-  ## 📘 My Top Projects
-  Here are a few projects I've worked on recently:
-
- ### [롯데온 프로젝트](https://github.com/jun9708/lotteON)
-  ![롯데온 프로젝트](https://github-readme-stats.vercel.app/api/pin/?username=jun9708&repo=lotteON&theme=radical)
-
-  ### [Project 2](https://github.com/your-username/project-2)
-  ![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=radical)
-
-  ### [Project 3](https://github.com/your-username/project-3)
-  ![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-3&theme=radical)
-
   ---
 
   ⭐️ From jun9708
