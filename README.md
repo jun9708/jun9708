@@ -16,17 +16,18 @@
   - ⚡ Fun fact: **[a fun fact about you]**
 
   ## 🛠️ Technologies & Tools
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=java)
+  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=spring)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=springboot)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=jsp)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=mysql)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+  ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring-boot)
+  ![JSP](https://img.shields.io/badge/-JSP-black?style=flat-square&logo=java)
+  ![MyBatis](https://img.shields.io/badge/-MyBatis-black?style=flat-square&logo=mybatis)
+  ![JPA](https://img.shields.io/badge/-JPA-black?style=flat-square&logo=hibernate)
+  ![QueryDSL](https://img.shields.io/badge/-QueryDSL-black?style=flat-square&logo=java)
+  ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
   ## 📈 GitHub Stats
   [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
