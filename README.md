@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hello!%20I'm%JUN!&fontAlign=50&fontAlignY=70&fontSize=70&fontColor=000000)
 
-![motion](https://github.com/jun9708/jun9708/assets/102947577/be3c4675-8ddf-45da-aac0-2814d4b73e64)
-
 <div align="center">
 
   # 개발자 김준형의 GitHub 👋
@@ -13,11 +11,7 @@
   ICT 융합미디어 공학을 전공하여 현재 웹프로그래밍을 공부하고 있는 중입니다
   
   ## 🚀 About Me
-  - 🌱 I’m currently learning **[specific technology or skill]**
-  - 👯 I’m looking to collaborate on **[project or type of projects]**
-  - 💬 Ask me about **[your areas of expertise]**
-  - 📫 wnsgud1997@gmail.com
-  - ⚡ 저는 
+  ![motion](https://github.com/jun9708/jun9708/assets/102947577/be3c4675-8ddf-45da-aac0-2814d4b73e64)
 
   ## 🛠️ Technologies & Tools
   ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
