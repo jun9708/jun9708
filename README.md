@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hello!%20I'm%JUN!&fontAlign=50&fontAlignY=70&fontSize=70&fontColor=000000)
 
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-
 
 <div align="center">
 
