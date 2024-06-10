@@ -13,11 +13,11 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)<br>
   ![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)
   ![MyBatis](https://img.shields.io/badge/MyBatis-B20000?style=flat-square&logo=mybatis&logoColor=white)
   ![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=hibernate&logoColor=white)
-  ![QueryDSL](https://img.shields.io/badge/QueryDSL-512BD4?style=flat-square&logo=java&logoColor=white)
+  ![QueryDSL](https://img.shields.io/badge/QueryDSL-512BD4?style=flat-square&logo=java&logoColor=white)<br>
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
